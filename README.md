@@ -14,7 +14,7 @@ The CPU features a hard-wired control unit, an 8-bit Arithmetic Logic Unit (ALU)
 * **Reset Logic:** Implemented **Synchronous Reset** mechanism to prevent race conditions and ensure stable state transitions.
 * **Input:** Manual Instruction/Data entry via 8-bit `DIN` pins.
 
-## ⚙️ Instruction Set Architecture (ISA)
+## Instruction Set Architecture (ISA)
 
 The CPU uses an 8-bit instruction format: `II XXX YYY`
 * **II:** Opcode (2 bits)
